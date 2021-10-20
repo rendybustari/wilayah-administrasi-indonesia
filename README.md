@@ -48,4 +48,3 @@ php artisan db:seed --class=SqlIndonesianRegionDataSeeder
 ```
 
 - Selesai :)
-# happyu
